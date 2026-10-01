@@ -1,4 +1,4 @@
-# ETHAN ADMISSION v2.1 — WhatsApp & Email Applications
+# ETHAN ADMISSION v2.3 — 120 Digital Programmes
 
 Exclusively for Ethan Digital Academy. Includes the ETHAN ADMISSION logo.
 
@@ -9,7 +9,7 @@ Extract the ZIP and open index.html. For consistent draft storage, serve the fol
 ## Pages and working features
 
 - Home: admission preparation journey and applicant categories.
-- Programmes: 18 proposed examples, search, area/category filters, detail dialog and programme selection.
+- Programmes: 120 digital programmes across 12 learning areas, search, area/category filters, detail dialog and programme selection.
 - Requirements: preparation checklist and guardian guidance.
 - Apply: three-step form, conditional guardian requirements for under-18 applicants, review, manual draft saving and resuming.
 - My Application: continue editing, local reference, download JSON copy, browser Print / Save as PDF, local deletion.
@@ -48,3 +48,9 @@ No provider keys, passwords or personal records are included in this package.
 ## Submission update
 
 The Apply page and My Application dashboard provide WhatsApp and email submission links after review. WhatsApp opens in a new tab; email opens the device’s configured email app. Applicants can inspect or copy the complete message before sending. Form changes clear previously generated submission links so they can be regenerated from reviewed details. No message is sent automatically and no delivery status is invented.
+
+Official supplied Ethan Digital Academy logo is displayed on all eight page headers and used as the browser icon. Updated promotional poster is included in assets/ethan-admission-poster.png.
+
+## Expanded programme catalogue
+
+120 distinct digital programme options are available in catalogue search, filters, detail dialogs and the application dropdown. Each includes a description and three learning topics. This is an admissions catalogue, not 120 complete teaching courses. Actual programme delivery, fees and dates require Academy confirmation.
